@@ -16,5 +16,8 @@ Features
 
 🏠 Home Page: Authenticated users can access the home page and manage their accounts.
 
+https://emailauth.pythonanywhere.com/
+
+
 
 
